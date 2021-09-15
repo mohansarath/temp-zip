@@ -19,6 +19,6 @@
   "dependencies": {
     "axios": "^0.18.0",
     "weather-js": "^2.0.0",
-    "yargs": "^11.0.0"
+    "yargs": "^15.0.1"
   }
 }
