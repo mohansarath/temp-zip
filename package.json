@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/sarathmohan007/temp-zip#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.6.3",
     "weather-js": "^2.0.0",
     "yargs": "^11.0.0"
   }
